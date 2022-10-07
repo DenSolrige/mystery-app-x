@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5oU1ot78gXlGunNtzxM4TDCiNSvDboOMEYOIHANyBGS6rF5GA3puBo7aSbQNtT3RUKr3lAlGzfzfcucdWeT9GQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sunny\\Desktop\\mystery-app-x\\MyWebApp\\MyWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sunny\\.nuget\\packages\\fastendpoints\\5.1.0\\fastendpoints.5.1.0.nupkg.sha512",
+    "C:\\Users\\Sunny\\.nuget\\packages\\fluentvalidation\\11.2.0\\fluentvalidation.11.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
